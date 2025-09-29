@@ -1,0 +1,17 @@
+{
+    "categories": [
+        {   "id": 1,
+            "url":"poetry", 
+            "name": "Poetry", 
+            "body":"Where rhymes converge in a sea of wordy art."
+        }
+    ],
+    "posts": [
+        {"category": "Poetry", 
+        "url":"poetry",
+        "title":"Roses are Red",
+        "body": "Violets are blue, and a beautiful hue."}
+    ],
+    "comments": [
+    ]
+}
